@@ -4,7 +4,8 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-requests
+
+
 tensorflow
-joblib
-warnings
+
+keras
